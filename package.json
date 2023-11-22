@@ -1,0 +1,15 @@
+{
+  "name": "quokka-ts-error",
+  "private": true,
+  "engines": {
+    "node": "^18.16.0",
+    "pnpm": "^8.9.2",
+    "yarn": "forbidden, use pnpm",
+    "npm": "forbidden, use pnpm"
+  },
+  "devDependencies": {
+    "typescript": "5.3.2",
+    "vite-node": "^0.34.6"
+  },
+  "packageManager": "pnpm@8.9.2"
+}
